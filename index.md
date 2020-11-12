@@ -21,7 +21,12 @@ My research focuses on addressing efficiency and sustainability issues for urban
 - Sustainable issues for urban transportation
 - Reinforcement learning based traffic control
 
- Welcome to my homepage! If you want to know more about me, feel free to explore [CV](_pages/CV.md) part! 
+
+# Contact me
+Welcome to my homepage! If you want to know more about me, feel free to explore [CV](_pages/CV.md) part! 
+- Email: [fwu3@ualberta.ca](mailto:fwu3@ualberta.ca)
+- Github: [https://github.com/Lucky-Fan](https://github.com/Lucky-Fan)
+- [ResearchGate](https://www.researchgate.net/profile/Fan_Wu33)
 
 
 # News
