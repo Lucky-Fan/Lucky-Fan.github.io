@@ -21,7 +21,7 @@ My research focuses on addressing efficiency and sustainability issues for urban
 - Sustainable issues for urban transportation
 - Reinforcement learning based traffic control
 
- Welcome to my homepage! If you want to know more about me, you can explore on [CV](_pages/CV.md) part! 
+ Welcome to my homepage! If you want to know more about me, feel free to explore [CV](_pages/CV.md) part! 
 
 
 # News
@@ -29,10 +29,3 @@ My research focuses on addressing efficiency and sustainability issues for urban
 
 Found more in [archived news](_posts/2020-11-08-archived-news.md) 
 
-
-# Selected publications
-- Cheng, Z., Trépanier, M., & Sun, L. (2020). [Probabilistic model for destination inference and travel pattern mining from smart card data](https://doi.org/10.1007/s11116-020-10120-0). Transportation, 1-19.
-- Cheng, Z., Trepanier, M., & Sun, L. (2020). [Incorporating travel behavior regularity into passenger flow forecasting](https://arxiv.org/abs/2004.00992). arXiv preprint arXiv:2004.00992.
-- Yao, J., Cheng, Z., Dai, J., Chen, A., & An, S. (2019). [Traffic assignment paradox incorporating congestion and stochastic perceived error simultaneously](https://doi.org/10.1080/23249935.2018.1474962). Transportmetrica A: Transport Science, 15(2), 307-325.
-- Yao, J., Cheng, Z., Shi, F., An, S., & Wang, J. (2018). [Evaluation of exclusive bus lanes in a tri-modal road network incorporating carpooling behavior](https://doi.org/10.1016/j.tranpol.2018.05.001). Transport Policy, 68, 130-141.
-- Making more. Hope to bring something interesting and useful.
