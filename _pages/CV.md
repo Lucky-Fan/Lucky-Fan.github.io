@@ -1,6 +1,6 @@
 ---
 layout: initial
-title: "CV"
+title: "CV/bio"
 author: "Fan Wu"
 permalink: /cv/
 ---
