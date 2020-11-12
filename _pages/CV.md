@@ -14,7 +14,7 @@ permalink: /cv/
 - A comprehensive [CV](../assets/files/CV_Fan.pdf) in pdf.
 - Email: [fwu3@ualberta.ca](mailto:fwu3@ualberta.ca)
 - Github: [https://github.com/Lucky-Fan](https://github.com/Lucky-Fan)
-- ResearchGate: [Fan Wu|ResearchGate](https://www.researchgate.net/profile/Fan_Wu33)
+- [ResearchGate](https://www.researchgate.net/profile/Fan_Wu33)
 
 ## Education
 - 2019.09-current, Ph.D. student in Transportation Engineering, University of Alberta.
