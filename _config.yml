@@ -1,17 +1,17 @@
 # Site settings
-title:          Zhanhong Cheng
+title:          Fan Wu
 description:    "Home"
 # baseurl:        "/tale"
-url:            "https://chengzhanhong.github.io"
+url:            "https://Lucky-Fan.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Zhanhong Cheng
-  url:          https://chengzhanhong.github.io
-  email:        chengzhanhong@mail.mcgill.ca
+  name:         Fan Wu
+  url:          https://Lucky-Fan.github.io
+  email:        fwu3@ualberta.ca
 
 # Build settings
 markdown: kramdown

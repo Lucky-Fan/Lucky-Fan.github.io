@@ -1,10 +1,10 @@
 ---
 layout: initial
 title: "CV"
-author: "Zhanhong Cheng"
+author: "Fan Wu"
 permalink: /cv/
 ---
-# CV for Zhanhong Cheng
+# CV for Fan Wu
 
 <figure style="float:right;margin-top:0;margin-left:10;margin-right:0;">
   <img src="..//assets/images/zhanhong.jpg" width="200" alt="My portrait"/>
