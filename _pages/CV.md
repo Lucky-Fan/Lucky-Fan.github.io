@@ -4,28 +4,35 @@ title: "CV"
 author: "Fan Wu"
 permalink: /cv/
 ---
-# Curriculum vitae
-
-<!-- <figure style="float:right;margin-top:0;margin-left:10;margin-right:0;">
-  <img src="..//assets/images/fan.jpg" width="200" alt="My portrait"/>
-  <figcaption>A photo of me taken <a href="https://goo.gl/maps/55mTwwm9Pfy7hUMZ6" target="_blank">here</a></figcaption>
-</figure> -->
-
-- A comprehensive [CV](../assets/files/CV_Fan.pdf) in pdf.
+<!-- # Curriculum vitae
+- A comprehensive [CV](../assets/files/CV_Fan.pdf) in pdf. -->
 
 
-## Education
+# Education
 - 2019.09-current, University of Alberta
-  Ph.D. student in Transportation Engineering
-- 2017.09-2019.07, Harbin Institute of Technology
-  M.S. in Communication and Transportation Engineering,
+  - Ph.D. student in Transportation Engineering
+- 2017.09-2019.07, Harbin Institute of Technology 
+  - M.S. in Communication and Transportation Engineering
 - 2013.08-2017.07, Southeast University
-  B.S. in Traffc Engineering
+  - B.S. in Traffc Engineering
+
+# Experiences
+- 2019.09-current, University of Alberta
+  - Graduate Research Assistant in Center for Smart Transportation
+  - NSERC project with Stantec: Mobility Pilot as Benchmark
+- Summer 2017, Nanjing Institute of City and Transportation Planning Co.,Ltd.
+  - Intern as Assistant Transport Engineer 
+  - Project: Planning of the Hub Airport’s Ground Access of Harbin
+  - Project: Transportation Planning of Scenic Area along the Qinhuai River
 
 
-
-
-
+# Awards
+- University of Alberta Engineering Doctoral Program Award (International Student), 2019-current.
+- First-class Academic Scholarship for Graduate Students in Harbin Institute of Technology, 2017-2019.
+- Third Prize for China (Xiaoguwei) "Internet+Transportation" Innovation and Entrepreneurship Competition, 2017.
+- Excellent Undergraduate Thesis of Southeast University, 2017.
+- The Scholarship Supported by China Road and Bridge Engineering Co. LTD (CRBC), 2016.
+- Course Awards of Civil Engineering Materials, Transportation Design, Transport Planning and Pavement Engineering (5% top), 2016.
 
 
 
