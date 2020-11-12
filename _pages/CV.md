@@ -11,14 +11,14 @@ permalink: /cv/
 # Education
 - 2019.09-current, University of Alberta
   - Ph.D. student in Transportation Engineering, GPA: 3.9/4.0
-  - Advisor: [Prof. Tony Qiu](https://scholar.google.ca/citations?user=S-1yR10AAAAJ&hl=en)
+  - Advisor: [Prof. Tony Qiu](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/tony-qiu/index.html)
 - 2017.09-2019.07, Harbin Institute of Technology 
   - M.S. in Communication and Transportation Engineering, GPA: 3.84/4.0
   - Advisor: [Prof. Shi An](http://homepage.hit.edu.cn/anshi)
-  - Thesis: Giving Priority to Bicycle Even in Congested Urban Area like Central Business District
+  - Thesis: Giving Priority to Bicycle Even in Congested Urban Area like CBD
 - 2013.08-2017.07, Southeast University
   - B.S. in Traffc Engineering, GPA: 3.55/4.0
-  - Advisor: [Prof. Haojie Li](https://cn.linkedin.com/in/haojie-rocky-li-%E6%9D%8E%E8%B1%AA%E6%9D%B0-41096684)
+  - Advisor: [Prof. Haojie Li](https://www.imperial.ac.uk/people/h.li09)
   - Thesis: Research on Impacts of Cycle Superhighways on the Public Cycle Rental Points
 
 # Experiences
