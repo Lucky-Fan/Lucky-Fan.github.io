@@ -7,7 +7,7 @@ title: "Home"
 
 <figure class="right">
   <img src="assets/images/fan3.jpg" width="200" alt="My portrait"/>
-  <figcaption>A photo of me taken in 2018</figcaption>
+  <figcaption>A photo of me taken in 2020</figcaption>
 </figure>
 
 Hello, I am Fan Wu (吴帆). I am a PhD student in the department of civil and environmental engineering at [University of Alberta](https://www.ualberta.ca/), Edmonton, Canada. I am also a member of the [Centre for Smart Transportation (CST)](https://www.ualberta.ca/engineering/research/groups/smart-transportation/) under the supervison by [Dr. Tony Qiu](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/tony-qiu/index.html). I received my Master degree from [Harbin Institute of Technology](https://www.hit.edu.cn/) and earned a Bachelor degree from [Southeast University](https://www.seu.edu.cn/). 
