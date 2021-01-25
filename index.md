@@ -30,6 +30,7 @@ Welcome to my homepage! If you want to know more about me, feel free to explore 
 
 
 # News
+- 2021-01-25. I participated in the TRB annual meeting and did the poster session.
 - 2020-11-08. Created this website.
 
 Found more in [archived news](_posts/2020-11-08-archived-news.md) 
