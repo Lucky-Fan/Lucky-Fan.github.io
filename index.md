@@ -6,7 +6,7 @@ title: "Home"
 # About me
 
 <figure class="right">
-  <img src="assets/images/Fan.jpg" width="200" alt="My portrait"/>
+  <img src="assets/images/fan.jpg" width="200" alt="My portrait"/>
   <figcaption>A photo of me taken in 2021</figcaption>
 </figure>
 
