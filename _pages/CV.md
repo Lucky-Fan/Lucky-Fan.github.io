@@ -32,6 +32,8 @@ permalink: /cv/
   - Project: Transportation Planning of Scenic Area along the Qinhuai River
 
 # Awards
+- 2021, People's Choice Award for Institute of Transportation Engineers UA Chapter Presentation Competition.
+- 2021, The Northern Alberta Section of CITE Top Graduate (First Place) for ITEUA Presentation Competition.
 - 2019-current, University of Alberta Engineering Doctoral Program Award (International Student).
 - 2017-2019, First-class Academic Scholarship for Graduate Students in Harbin Institute of Technology.
 - 2017-2018, Third Prize for China (Xiaoguwei) "Internet+Transportation" Innovation and Entrepreneurship Competition.
