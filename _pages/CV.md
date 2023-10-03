@@ -32,6 +32,7 @@ permalink: /cv/
   - Project: Transportation Planning of Scenic Area along the Qinhuai River
 
 # Awards
+- 2023，University of Alberta Graduate Student Teaching Award (GSTA)
 - 2021, People's Choice Award for Institute of Transportation Engineers UA Chapter Presentation Competition.
 - 2021, The Northern Alberta Section of CITE Top Graduate (First Place) for ITEUA Presentation Competition.
 - 2019-current, University of Alberta Engineering Doctoral Program Award (International Student).
