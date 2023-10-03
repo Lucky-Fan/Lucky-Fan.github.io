@@ -6,7 +6,7 @@ title: "Home"
 # About me
 
 <figure class="right">
-  <img src="assets/images/fan.png" width="200" alt="My portrait"/>
+  <img src="assets/images/fan1.png" width="200" alt="My portrait"/>
   <figcaption>A photo of me powered by AI</figcaption>
 </figure>
 
