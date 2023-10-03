@@ -12,7 +12,7 @@ permalink: /cv/
 - 2019.09-current, University of Alberta
   - Ph.D. student in Transportation Engineering, GPA: 3.9/4.0
   - Advisor: [Prof. Tony Qiu](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/tony-qiu/index.html)
-  - Courses: CIVE612: Transportation planing: method & technique, CIVE613: Transportation system demand analysis, CIVE614: Traffic operation & control, CIVE616: Traffic safety, CIVE719: Transport advanced topic-geographic information system, ENGG600: Graduate ethics traning and professionalism, ENGG601 & ENGG602: Individual development plan & Professional development
+  - Thesis: V2X Technology Supported Traﬀic Management System for Signalized Arterials
 - 2017.09-2019.07, Harbin Institute of Technology 
   - M.S. in Communication and Transportation Engineering, GPA: 3.84/4.0
   - Advisor: [Prof. Shi An](http://homepage.hit.edu.cn/anshi)
@@ -30,6 +30,14 @@ permalink: /cv/
   - Intern as Assistant Transport Engineer 
   - Project: Planning of the Hub Airport’s Ground Access of Harbin
   - Project: Transportation Planning of Scenic Area along the Qinhuai River
+
+# Teaching
+- 2023.01-2023.04, Winter Term 2023, University of Alberta
+  - Graduate Teaching Assistant
+  - Transportation Engineering: Highway Planning and Design (CIV E 419, 3 Units)
+- 2022.01-2022.04, Winter Term 2022, University of Alberta
+  - Graduate Teaching Assistant (Recipient of GSTA 2023)
+  - Transportation Engineering: Highway Planning and Design (CIV E 419, 3 Units)
 
 # Awards
 - 2023，University of Alberta Graduate Student Teaching Award (GSTA)
