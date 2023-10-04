@@ -14,11 +14,11 @@ permalink: /cv/
   - Advisor: [Prof. Tony Qiu](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/tony-qiu/index.html)
   - Thesis: V2X Technology Supported Traﬀic Management System for Signalized Arterials
 - 2017.09-2019.07, Harbin Institute of Technology 
-  - M.S. in Communication and Transportation Engineering, GPA: 3.84/4.0
+  - M.S. in Communication and Transportation Engineering, GPA: 3.9/4.0
   - Advisor: [Prof. Shi An](http://homepage.hit.edu.cn/anshi)
   - Thesis: Giving Priority to Bicycle Even in Congested Urban Area like CBD
 - 2013.08-2017.07, Southeast University
-  - B.S. in Traffc Engineering, GPA: 3.55/4.0
+  - B.S. in Traffc Engineering, GPA: 3.6/4.0
   - Advisor: [Prof. Haojie Li](https://www.imperial.ac.uk/people/h.li09)
   - Thesis: Research on Impacts of Cycle Superhighways on the Public Cycle Rental Points
 
