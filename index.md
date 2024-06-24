@@ -27,15 +27,20 @@ My research focuses on addressing efficiency and sustainability issues for urban
 # Contact
 Welcome to my homepage! If you want to know more about me, feel free to explore [CV](_pages/CV.md) part! 
 - Email: [fwu3@ualberta.ca](mailto:fwu3@ualberta.ca)
-- Github: [https://github.com/Lucky-Fan](https://github.com/Lucky-Fan)
+- [Google Scholar](https://scholar.google.com/citations?user=5Wl7w1YAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Fan_Wu33)
+- [Github](https://github.com/Lucky-Fan)
 
 
 # News
+- 2024-06-20. I participated in the ITS Canada 2024 Annual Conference & Expo and did two poster presentations.
+- 2024-01-10. I participated in the TRB annual conference and did the poster presentation.
 - 2023-04-25. I am excited and proud to announce I am a recipient of the 2023 Graduate Student Teaching Award.
+- 2023-01-09. I participated in the TRB annual conference and did the poster presentation.
+- 2022-01-10. I participated in the TRB annual conference and did two poster presentations.
 - 2021-02-17. I also win the People's Choice Award for Institute of Transportation Engineers-University of Alberta (ITEUA) Presentation Competition 2021.   
 - 2021-02-17. I win the Northern Alberta Section of Canadian Institute of Transportation Engineers (NACITE) Top Graduate (First Place) for ITEUA Presentation Competition 2021.
-- 2021-01-25. I participated in the TRB annual meeting and did the poster presentation.
+- 2021-01-25. I participated in the TRB annual conference and did the poster presentation.
 - 2020-11-08. Created this website.
 
 Found more in [archived news](_posts/2020-11-08-archived-news.md) 

@@ -9,10 +9,10 @@ permalink: /cv/
 
 
 # Education
-- 2019.09-current, University of Alberta
+- 2019.09-2024.09, University of Alberta
   - Ph.D. student in Transportation Engineering, GPA: 3.9/4.0
   - Advisor: [Prof. Tony Qiu](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/tony-qiu/index.html)
-  - Thesis: V2X Technology Supported Traﬀic Management System for Signalized Arterials
+  - Thesis: Traffic Management in Mixed Autonomy with CAVs: Sensing, Signal Optimization, and Trajectory Control
 - 2017.09-2019.07, Harbin Institute of Technology 
   - M.S. in Communication and Transportation Engineering, GPA: 3.9/4.0
   - Advisor: [Prof. Shi An](http://homepage.hit.edu.cn/anshi)
@@ -23,7 +23,7 @@ permalink: /cv/
   - Thesis: Research on Impacts of Cycle Superhighways on the Public Cycle Rental Points
 
 # Experiences
-- 2019.09-current, University of Alberta
+- 2019.09-2024.08, University of Alberta
   - Graduate Research Assistant in Center for Smart Transportation
   - NSERC project with Stantec: Mobility Pilot as Benchmark
 - Summer 2017, Nanjing Institute of City and Transportation Planning Co.,Ltd.
