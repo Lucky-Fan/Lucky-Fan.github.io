@@ -10,7 +10,7 @@ permalink: /cv/
 
 # Education
 - 2019.09-2024.09, University of Alberta
-  - Ph.D. student in Transportation Engineering, GPA: 3.9/4.0
+  - Ph.D. in Transportation Engineering, GPA: 3.9/4.0
   - Advisor: [Prof. Tony Qiu](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/tony-qiu/index.html)
   - Thesis: Traffic Management in Mixed Autonomy with CAVs: Sensing, Signal Optimization, and Trajectory Control
 - 2017.09-2019.07, Harbin Institute of Technology 
@@ -18,26 +18,35 @@ permalink: /cv/
   - Advisor: [Prof. Shi An](http://homepage.hit.edu.cn/anshi)
   - Thesis: Giving Priority to Bicycle Even in Congested Urban Area like CBD
 - 2013.08-2017.07, Southeast University
-  - B.S. in Traffc Engineering, GPA: 3.6/4.0
+  - B.S. in Traffic Engineering, GPA: 3.6/4.0
   - Advisor: [Prof. Haojie Li](https://www.imperial.ac.uk/people/h.li09)
   - Thesis: Research on Impacts of Cycle Superhighways on the Public Cycle Rental Points
 
 # Experiences
+- 2019.09-present, University of Alberta
+  - Postdoctoral Research Fellow
+    - Research Funded by NSERC Industrial Research Chair (IRC) Grant
 - 2019.09-2024.08, University of Alberta
-  - Graduate Research Assistant in Center for Smart Transportation
-  - NSERC project with Stantec: Mobility Pilot as Benchmark
+  - Graduate Research Assistant
+    – NSERC Industrial Project with Stantec: Mobility Pilot as Benchmark (leader and coordinator)
+    – NSERC Industrial Project with Telus: 5G+MEC for the Next Generation of ITS (participant)
+    – NSERC Industrial Project with ATS Traffic: Digitalizing Work Zones (participant)
+    – NSERC Industrial Project with IBI Group: Vehicle as a Sensor (participant)
 - Summer 2017, Nanjing Institute of City and Transportation Planning Co.,Ltd.
   - Intern as Assistant Transport Engineer 
-  - Project: Planning of the Hub Airport’s Ground Access of Harbin
-  - Project: Transportation Planning of Scenic Area along the Qinhuai River
+    - Project: Planning of the Hub Airport’s Ground Access of Harbin
+    - Project: Transportation Planning of Scenic Area along the Qinhuai River
 
 # Teaching
+- 2024.09-2024.12, Fall Term 2024, University of Alberta
+  - Teaching Assistant
+    - Traffic Operation and Control (CIV E 614, 3 Units, Graduate Course)
 - 2023.01-2023.04, Winter Term 2023, University of Alberta
   - Graduate Teaching Assistant
-  - Transportation Engineering: Highway Planning and Design (CIV E 419, 3 Units)
+    - Transportation Engineering: Highway Planning and Design (CIV E 419, 3 Units)
 - 2022.01-2022.04, Winter Term 2022, University of Alberta
   - Graduate Teaching Assistant (Recipient of GSTA 2023)
-  - Transportation Engineering: Highway Planning and Design (CIV E 419, 3 Units)
+    - Transportation Engineering: Highway Planning and Design (CIV E 419, 3 Units)
 
 # Awards
 - 2023，University of Alberta Graduate Student Teaching Award (GSTA)
