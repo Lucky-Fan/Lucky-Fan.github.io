@@ -6,8 +6,8 @@ title: "Home"
 # About me
 
 <figure class="right">
-  <img src="assets/images/fan2.png" width="200" alt="My portrait"/>
-  <figcaption>A photo of me powered by AI</figcaption>
+  <img src="assets/images/fan3.png" width="200" alt="My portrait"/>
+  <figcaption>A photo of me taken in 2024</figcaption>
 </figure>
 
 Hello, I am Fan Wu (吴帆). I am a Postdoctoral Research Fellow in the department of civil and environmental engineering at [University of Alberta](https://www.ualberta.ca/), Edmonton, Canada. I obtained my PhD degree from [University of Alberta](https://www.ualberta.ca/), and I hold a Master's degree from [Harbin Institute of Technology](https://www.hit.edu.cn/) and a Bachelor's degree from [Southeast University](https://www.seu.edu.cn/) in China. 
