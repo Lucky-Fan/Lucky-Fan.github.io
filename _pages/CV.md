@@ -28,10 +28,10 @@ permalink: /cv/
     - Research Funded by NSERC Industrial Research Chair (IRC) Grant
 - 2019.09-2024.08, University of Alberta
   - Graduate Research Assistant
-    – NSERC Industrial Project with Stantec: Mobility Pilot as Benchmark (leader and coordinator)
-    – NSERC Industrial Project with Telus: 5G+MEC for the Next Generation of ITS (participant)
-    – NSERC Industrial Project with ATS Traffic: Digitalizing Work Zones (participant)
-    – NSERC Industrial Project with IBI Group: Vehicle as a Sensor (participant)
+    - NSERC Industrial Project with Stantec: Mobility Pilot as Benchmark (leader and coordinator)
+    - NSERC Industrial Project with Telus: 5G+MEC for the Next Generation of ITS (participant)
+    - NSERC Industrial Project with ATS Traffic: Digitalizing Work Zones (participant)
+    - NSERC Industrial Project with IBI Group: Vehicle as a Sensor (participant)
 - Summer 2017, Nanjing Institute of City and Transportation Planning Co.,Ltd.
   - Intern as Assistant Transport Engineer 
     - Project: Planning of the Hub Airport’s Ground Access of Harbin

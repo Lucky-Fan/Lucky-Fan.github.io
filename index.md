@@ -12,7 +12,7 @@ title: "Home"
 
 Hello, I am Fan Wu (吴帆). I am a Postdoctoral Research Fellow in the department of civil and environmental engineering at [University of Alberta](https://www.ualberta.ca/), Edmonton, Canada. I obtained my PhD degree from [University of Alberta](https://www.ualberta.ca/), and I hold a Master's degree from [Harbin Institute of Technology](https://www.hit.edu.cn/) and a Bachelor's degree from [Southeast University](https://www.seu.edu.cn/) in China. 
 
-Currently, I am engaged in research and project work supported by Industrial Research Chair (IRC) Grant from [NSERC](https://www.nserc-crsng.gc.ca/). My work also involves projects collaborating with industry partners such as [TELUS](https://www.telus.com/en), [Stantec](https://www.stantec.com/en), [Acadis IBI Group](https://www.ibigroup.com/), and [ATS Traffic](https://www.atstraffic.ca/). Additionally, I serve as the team leader and coordinator for one of the project themes.
+Currently, I am engaged in research and projects supported by Industrial Research Chair (IRC) Grant from [NSERC](https://www.nserc-crsng.gc.ca/). My work also involves projects collaborating with industry partners such as [TELUS](https://www.telus.com/en), [Stantec](https://www.stantec.com/en), [Acadis IBI Group](https://www.ibigroup.com/), and [ATS Traffic](https://www.atstraffic.ca/). Additionally, I serve as the team leader and coordinator for one of the projects.
 
 <!-- The primary objectives include developing and enhancing a broader range of applications for Vehicle-to-Everything (V2X) technology, thereby improving traffic management efficiency, bolstering safety in mobility, and enhancing the overall travel experience for all participants within the transportation system. -->
 
@@ -30,8 +30,8 @@ Welcome to my homepage! If you want to know more about me, feel free to explore 
 - Email: [fwu3@ualberta.ca](mailto:fwu3@ualberta.ca)
 - [Google Scholar](https://scholar.google.com/citations?user=5Wl7w1YAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Fan_Wu33)
-- [Github](https://github.com/Lucky-Fan)
 - [Linkedin](https://www.linkedin.com/in/fan-wu-lucky/)
+- [Github](https://github.com/Lucky-Fan)
 
 
 # News
